@@ -1,0 +1,9 @@
+{
+  "type": "mysql",
+  "host": "<hostname or IP>",
+  "port": "<NNNN>",
+  "name": "<database>",
+  "user": "<user>",
+  "pass": "<password>",
+  "ini_file": "<connection name>"
+}
