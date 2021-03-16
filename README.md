@@ -1,2 +1,6 @@
-# adianti_codegen
-Gerador de código para o framework ADIANTI baseado no projeto "adianti_code_generator" (https://github.com/Jonas452/adianti_code_generator)
+# ADIANTI Code Generator
+Simple generator of code for the ADIANTI Framework, creating basic classes to facilitate the process of development.
+
+# Setup
+You have to configure the /app/database/config.json file to inform the database to connect.
+
